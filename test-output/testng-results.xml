@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-26T17:01:17 EST" name="Default suite" finished-at="2020-01-26T17:01:29 EST" duration-ms="11801">
+    <groups>
+    </groups>
+    <test started-at="2020-01-26T17:01:17 EST" name="Default test" finished-at="2020-01-26T17:01:29 EST" duration-ms="11801">
+      <class name="com.Selenium_project_Infotek.WebsideTitleUsingTestNg">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Selenium_project_Infotek.WebsideTitleUsingTestNg@548e6d58]" started-at="2020-01-26T17:01:17 EST" name="setUp" finished-at="2020-01-26T17:01:25 EST" duration-ms="8198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkTitle()[pri:0, instance:com.Selenium_project_Infotek.WebsideTitleUsingTestNg@548e6d58]" started-at="2020-01-26T17:01:25 EST" name="checkTitle" finished-at="2020-01-26T17:01:25 EST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Selenium_project_Infotek.WebsideTitleUsingTestNg@548e6d58]" started-at="2020-01-26T17:01:25 EST" name="tearDown" finished-at="2020-01-26T17:01:29 EST" duration-ms="3511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Selenium_project_Infotek.WebsideTitleUsingTestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
